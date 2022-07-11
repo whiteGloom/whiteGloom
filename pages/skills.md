@@ -77,10 +77,13 @@
 
 * Языки: JS, Typescript, CSS, HTML;
 * Фреймворки: React-Native, Zombiebox (забудьте это название), custom;
+* Библиотеки: jQuery, Lodash, Videojs, SocketIO, Popmotion;
 * Препроцессоры: stylus, less, pug, mustache, JSX, postcss;
 * Сборщики и раннеры: Webpack, Typescript compiler, Grunt, Gulp, Rollup, Google closure compiler;
 * Платформы: Browser, Mobile Browsers, Android, Ios, Webos TV, Tizen TV, Android STB;
-* Линтеры;
+* Unit тесты: Jasmine (и т.п);
+* Линтеры: Eslint (и т.п);
+* Инструменты версионирования: Git;
 
 **Уровень английского:**
 
