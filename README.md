@@ -9,9 +9,9 @@
 С 2019 года работаю front-end разработчиком.
 
 Буду рад пообщаться здесь:
-**Telegram**: https://t.me/whiteGloom
-**Discord**: Поток-7#9080
-**ВК**: https://vk.com/wgloom
+* **Telegram**: https://t.me/whiteGloom
+* **Discord**: Поток-7#9080
+* **ВК**: https://vk.com/wgloom
 
 ### Статьи
 

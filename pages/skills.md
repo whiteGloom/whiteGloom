@@ -78,7 +78,7 @@
 * Языки: JS, Typescript, CSS, HTML;
 * Фреймворки: React-Native, Zombiebox (забудьте это название), custom;
 * Препроцессоры: stylus, less, pug, mustache, JSX, postcss;
-* Сборщики и раннеры: webpack, typescript compiler, grunt, gulp, rollup, google closure compiler;
+* Сборщики и раннеры: Webpack, Typescript compiler, Grunt, Gulp, Rollup, Google closure compiler;
 * Платформы: Browser, Mobile Browsers, Android, Ios, Webos TV, Tizen TV, Android STB;
 * Линтеры;
 
