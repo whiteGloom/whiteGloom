@@ -82,17 +82,16 @@
 
 Имею опыт работы со следующими технологиями:
 
-> Уровень знаний лучше уточнять отдельно - с одними я работал много, а некоторые задевал только вскользь.
+> Уровень знаний по интересующим позициям лучше уточнять отдельно - с одними я работал много, а некоторые задевал только вскользь.
 
 * Языки: JS, Typescript, CSS, HTML;
 * Фреймворки: React-Native, Zombiebox (забудьте это название), custom;
-* Библиотеки: jQuery, Lodash, Videojs, SocketIO, Popmotion;
+* Библиотеки: StyledComponents, jQuery, Lodash, Videojs, SocketIO, Axios, Popmotion;
 * Препроцессоры: Stylus, Less, Pug, Mustache-like, JSX, Postcss;
 * Сборщики и раннеры: Webpack, Typescript compiler, Grunt, Gulp, Rollup, Google closure compiler;
-* Платформы: Browser, Mobile Browsers, Android, Ios, Webos TV, Tizen TV, Android STB;
+* Платформы: Browser, Mobile Browsers, Android, Ios, Webos TV, Tizen TV, Android TV;
 * Unit тесты: Jasmine (и т.п);
 * Линтеры: Eslint (и т.п);
-* Инструменты версионирования: Git;
 
 **Уровень английского**
 
