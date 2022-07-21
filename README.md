@@ -13,6 +13,9 @@
 * **Discord**: Поток-7#9080
 * **ВК**: https://vk.com/wgloom
 
+Страницы в рекрутинговых сервисах:
+* [Habr Career](https://career.habr.com/wgloom)
+
 ### Статьи
 
 * [Профессиональная биография и навыки](./pages/skills.md)
