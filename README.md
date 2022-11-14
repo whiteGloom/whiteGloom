@@ -15,6 +15,8 @@
 
 Страницы в рекрутинговых сервисах:
 * [Habr Career](https://career.habr.com/wgloom)
+* [hh](https://hh.ru/resume/606adf81ff0b240abc0039ed1f45454b30574d)
+* [LinkedIn](https://www.linkedin.com/in/ev-miller/)
 
 ### Статьи
 
