@@ -14,13 +14,13 @@
 
 Буду рад пообщаться здесь:
 * **Telegram**: https://t.me/whiteGloom
-* **Discord**: Поток-7#9080
+* **Discord**: emiller
 * **ВК**: https://vk.com/wgloom
 
 Страницы в рекрутинговых сервисах:
+* [LinkedIn](https://www.linkedin.com/in/ev-miller/)
 * [HabrCareer](https://career.habr.com/wgloom)
 * [hh](https://hh.ru/resume/606adf81ff0b240abc0039ed1f45454b30574d)
-* [LinkedIn](https://www.linkedin.com/in/ev-miller/)
 
 ## Статьи
 
