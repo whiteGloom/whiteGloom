@@ -1,28 +1,23 @@
-# Evgenii Miller
+# Evgenii Miller 👁️
 
-*Так как личный сайт находится в стадии разработки, био пока будет находиться здесь.*
+## Status: Open to work ([Resume](./files/resume.pdf))
 
-## Статус поиска работы: [ИЩУ](./pages/resume_ru.md)
+## Contacts
 
-## Немного о себе:
+* karabin.m@yandex.ru
+* [LinkedIn](https://www.linkedin.com/in/ev-miller) / [LeetCode](https://leetcode.com/wGloom) / [Telegram](https://t.me/whiteGloom)
 
-Евгений Миллер, 23.11.2001\
-Гражданство: Россия\
-Место жительства: Кыргызстан, Бишкек
+## About me
 
-С 2019 года работаю front-end разработчиком.
+I will be glad to talk with you, feel free to write 😊\
+I am 21 y/o, my name is Evgenii. I am from Russia (Tomsk), living in Kyrgyzstan (Bishkek).\
+I have been working as a professional frontend developer for 4 years.
 
-Буду рад пообщаться здесь:
-* **Telegram**: https://t.me/whiteGloom
-* **Discord**: emiller
-* **ВК**: https://vk.com/wgloom
 
-Страницы в рекрутинговых сервисах:
-* [LinkedIn](https://www.linkedin.com/in/ev-miller/)
-* [HabrCareer](https://career.habr.com/wgloom)
-* [hh](https://hh.ru/resume/606adf81ff0b240abc0039ed1f45454b30574d)
+![](https://leetcard.jacoblin.cool/wGloom?ext=heatmap)
 
-## Статьи
+## Useful links
 
-* [Резюме](./pages/resume_ru.md)
-* [План личного развития](./pages/personal_dev_path_ru.md)
+* [Resume](./files/resume.pdf)
+* [(Certificate) Perspective USA: "Intermediate level of english language"](./files/certificate_perspective_usa_intermediate_english.png)
+
