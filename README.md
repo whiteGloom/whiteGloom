@@ -14,7 +14,7 @@ I am 21 y/o, my name is Evgenii. I am from Russia (Tomsk), living in Kyrgyzstan 
 I have been working as a professional frontend developer for 4 years.
 
 
-![](https://leetcard.jacoblin.cool/wGloom?ext=heatmap)
+[![](https://leetcard.jacoblin.cool/wGloom?ext=heatmap)](https://leetcode.com/wGloom)
 
 ## Useful links
 
