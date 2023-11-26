@@ -11,7 +11,7 @@
 **Email for contact:** `karabin.m@yandex.ru`
 
 I will be glad to chat with you, feel free to write 😊\
-I am 21 y/o, my name is Evgenii. I am from Russia (Tomsk), living in Kyrgyzstan (Bishkek).\
+I am 22 y/o, my name is Evgenii. I am from Russia (Tomsk), living in Kyrgyzstan (Bishkek).\
 I've been working as a professional frontend developer for 4 years.
 
 [![](https://leetcard.jacoblin.cool/wGloom?ext=heatmap)](https://leetcode.com/wGloom)
