@@ -15,7 +15,7 @@
 I am software developer from Russia (Tomsk), living in Kyrgyzstan (Bishkek).\
 I've been working as a frontend developer since 2019.
 
-I will be glad to chat with you, feel free to write 😊\
+I will be glad to chat with you, feel free to write 😊
 
 [![](https://leetcard.jacoblin.cool/wGloom?ext=heatmap)](https://leetcode.com/wGloom)
 
