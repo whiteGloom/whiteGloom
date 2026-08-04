@@ -8,7 +8,7 @@
 [![LeetCode](https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06)](https://leetcode.com/wGloom)
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/whiteGloom)
 
-**Email:** `karabin.m@yandex.ru`
+**Email:** `echo@emiller.dev`
 
 **Discord:** `emiller`
 
