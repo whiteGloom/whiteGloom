@@ -12,7 +12,7 @@
 
 **Discord:** `emiller`
 
-I am software developer from Russia (Tomsk), living in Kyrgyzstan (Bishkek).\
+I am software developer from Russia (Tomsk), living in Serbia (Belgrade).\
 I've been working as a frontend developer since 2019.
 
 I will be glad to chat with you, feel free to write 😊
